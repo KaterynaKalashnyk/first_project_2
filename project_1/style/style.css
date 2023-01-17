@@ -1,0 +1,20 @@
+.main{
+    background-color: #3498DB;
+}
+.about{
+    background-color: #8E44AD;
+}
+.info{
+    background-color: #16A085;
+}
+.links img{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+}
+.links a{ 
+    text-decoration: none;
+}
+p{
+    margin: 30px 0px;
+}
